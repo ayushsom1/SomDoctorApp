@@ -1,4 +1,4 @@
-# SOM-Doctor-Appointmnet-System-Mern-roject
+# SOM-Doctor-Appointment-System-Mern-roject
 
 MediConnect is a simple Doctor Appointment application that helps you book an appointment with the available doctors. The project was developed using HTML, CSS, JavaScript, React.js, Node.js, and MongoDB.
 ## Live link

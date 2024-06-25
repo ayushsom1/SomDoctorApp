@@ -1,11 +1,32 @@
 # SOM-Doctor-Appointmnet-System-Mern-roject
 
-Mern Stack Doctor appointment system project code
+MediConnect is a simple Doctor Appointment application that helps you book an appointment with the available doctors. The project was developed using HTML, CSS, JavaScript, React.js, Node.js, and MongoDB.
+## Live link
 
-changed again the package jason;
+  https://mediconnect-ap6a.onrender.com/
+  
+## Features
 
-for deployment
-"dev": "concurrently \"npm start\" \"npm run client\""
+1. **Comprehensive Profiles:**
+   - Developed detailed profiles for both doctors and patients, ensuring a comprehensive view of their information.
 
-for system
-"dev": "concurrently \"npm run server\" \"npm run client\""
+2. **Secure Authentication:**
+   - Implemented a secure user registration and login system using JWT for authentication purposes.
+   - Ensures a safe and reliable environment for doctors and patients to create and manage their accounts.
+
+3. **Database Management:**
+   - Utilized MongoDB as the NoSQL database to store and manage doctor and patient data efficiently.
+   - Ensures a scalable and flexible database structure for the application.
+
+4. **Server-Side Environment:**
+   - Used Node.js as the server-side runtime environment for high-performance server operations.
+   - Employed Express.js, a robust web application framework, to handle HTTP requests and responses effectively.
+
+## How to Start
+
+1. Clone the repository: `git clone <repository_url>`
+2. Navigate to the project directory: `cd doc-appointment-system`
+3. Install dependencies: `npm install`
+4. Start the server: `npm start`
+5. Start the client (React app): `npm run client`
+6. Alternatively, run both server and client concurrently: `npm run dev`
